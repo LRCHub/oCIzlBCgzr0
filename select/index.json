@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "B2B",
+  "base_artist": "BAD HOP",
+  "createdAt": "2026-02-08T12:19:01.228622Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Going Wrong (Alex M.O.R.P.H. B2b Woody Van Eyden Remix)",
+      "artist": "Armin van Buuren with DJ Shah feat. Chris Jones",
+      "has_synced": false,
+      "path": "select/01_Going_Wrong_(Alex_M.O.R.P.H._B2b_Woody_Van_Eyden_Remix)_Armin_van_Buuren_with_DJ_Shah_feat._Chris_Jones.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Going Wrong (Alex M.O.R.P.H. b2b Woody van Eyden remix)",
+      "artist": "Armin van Buuren & DJ Shah feat. Chris Jones",
+      "has_synced": false,
+      "path": "select/02_Going_Wrong_(Alex_M.O.R.P.H._b2b_Woody_van_Eyden_remix)_Armin_van_Buuren_&_DJ_Shah_feat._Chris_Jones.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Going Wrong - Alex M.O.R.P.H. B2B Woody van Eyden Remix",
+      "artist": "Armin van Buuren",
+      "has_synced": false,
+      "path": "select/03_Going_Wrong_-_Alex_M.O.R.P.H._B2B_Woody_van_Eyden_Remix_Armin_van_Buuren.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Going Wrong (Alex M.O.R.P.H. b2b Woody van Eyden remix)",
+      "artist": "Armin",
+      "has_synced": false,
+      "path": "select/04_Going_Wrong_(Alex_M.O.R.P.H._b2b_Woody_van_Eyden_remix)_Armin.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Back To Back (B2B)",
+      "artist": "A Little Sound",
+      "has_synced": true,
+      "path": "select/05_Back_To_Back_(B2B)_A_Little_Sound.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "B2b",
+      "artist": "Charli XCX",
+      "has_synced": true,
+      "path": "select/06_B2b_Charli_XCX.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "B2b",
+      "artist": "Charli XCX",
+      "has_synced": true,
+      "path": "select/07_B2b_Charli_XCX.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "#B2B",
+      "artist": "Cosculluela",
+      "has_synced": true,
+      "path": "select/08_B2B_Cosculluela.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "#B2B",
+      "artist": "Cosculluela",
+      "has_synced": false,
+      "path": "select/09_B2B_Cosculluela.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "B2b",
+      "artist": "Charli xcx",
+      "has_synced": true,
+      "path": "select/10_B2b_Charli_xcx.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "b2b heartbeat",
+      "artist": "Donatachi",
+      "has_synced": true,
+      "path": "select/11_b2b_heartbeat_Donatachi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Charli XCX - B2b (Official Audio)",
+      "artist": "Charli XCX",
+      "has_synced": true,
+      "path": "select/12_Charli_XCX_-_B2b_(Official_Audio)_Charli_XCX.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Back To Back (B2B)",
+      "artist": "A Little Sound",
+      "has_synced": true,
+      "path": "select/13_Back_To_Back_(B2B)_A_Little_Sound.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "B2B",
+      "artist": "Carmon X Artigeardit",
+      "has_synced": true,
+      "path": "select/14_B2B_Carmon_X_Artigeardit.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Frequency (b2b)",
+      "artist": "ABSRDST",
+      "has_synced": false,
+      "path": "select/15_Frequency_(b2b)_ABSRDST.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "b2b",
+      "artist": "Tsuyunoshi",
+      "has_synced": true,
+      "path": "select/16_b2b_Tsuyunoshi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "B2B (feat. Benjazzy & Bonbero)",
+      "artist": "BAD HOP, Benjazzy, Bonbero",
+      "has_synced": false,
+      "path": "select/pl_01_B2B_(feat._Benjazzy_&_Bonbero)_BAD_HOP,_Benjazzy,_Bonbero.txt"
+    }
+  ]
+}
